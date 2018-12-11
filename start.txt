@@ -1,0 +1,6 @@
+sudo apt-get install picocom
+sudo apt-get install terminator
+sudo apt-get install avrdude gcc-avr binutils-avr avr-libc
+
+#web browser
+sudo apt-get install midori
